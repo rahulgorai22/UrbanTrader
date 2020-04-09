@@ -9,3 +9,8 @@ Table of Contents
 * What is Urban Trader
 * Architecture and Design
 * Deployment of Azure 
+
+Trader Wallet
+=============
+
+![logo](trader-wallet.png)
